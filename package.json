@@ -2,7 +2,7 @@
     "name": "styncy",
     "displayName": "Styncy",
     "description": "Stylish styles styled by Goncy, with variants for Atom dark one and Monokai pro, based on Atom IDE",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "goncy",
     "icon": "images/icon.png",
     "repository": {
