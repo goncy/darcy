@@ -1,0 +1,37 @@
+{
+    "name": "styncy",
+    "displayName": "Styncy",
+    "description": "Stylish styles styled by Goncy, with variants for Atom dark one and Monokai pro, based on Atom IDE",
+    "version": "0.0.3",
+    "publisher": "goncy",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goncy/styncy.git"
+    },
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Styncy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styncy-color-theme.json"
+            },
+            {
+                "label": "Styncy (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styncy-color-theme-dark.json"
+            },
+            {
+                "label": "Styncy (monokai)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styncy-color-theme-monokai.json"
+            }
+        ]
+    }
+}
