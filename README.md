@@ -3,6 +3,8 @@ Stylish styles styled by Goncy, with variants for Atom dark one and Monokai pro,
 
 VSCode Theme based on [Atom's IDE presentation](https://ide.atom.io/) theme.
 
+![](https://raw.githubusercontent.com/goncy/styncy/master/images/preview.jpg)
+
 ## Installing
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=goncy.styncy)  
