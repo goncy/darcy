@@ -40,8 +40,8 @@
 		"editorWidget.background": "#25102e",
 		"editor.selectionBackground": "#af95b950",
 		"editor.selectionHighlightBackground": "#af95b950",
-		"editor.findMatchBackground": "#af95b950",
-		"editor.findMatchHighlightBackground": "#af95b950",
+		"editor.findMatchBackground": "#B040E950",
+		"editor.findMatchHighlightBackground": "#B040E975",
 		"editor.hoverHighlightBackground": "#af95b950",
 		"editorHoverWidget.background": "#25102e",
 		"editorHoverWidget.border": "#25102e",
@@ -52,7 +52,7 @@
 		"merge.currentContentBackground": "#f9267240",
 		"merge.incomingHeaderBackground": "#B040E9bb",
 		"merge.incomingContentBackground": "#B040E940",
-		"editor.lineHighlightBackground": "#432e51",
+		"editor.lineHighlightBackground": "#432e5185",
 		"editor.lineHighlightBorder": "#4c315850",
 		"editor.rangeHighlightBackground": "#432e51",
 		"editorCursor.foreground": "#ffffff",
@@ -70,8 +70,8 @@
 		"editorSuggestWidget.border": "#25102e",
 		"editorSuggestWidget.highlightForeground": "#B040E9",
 		"editorSuggestWidget.selectedBackground": "#432e51",
-		"editor.wordHighlightBackground": "#AF95B965",
-		"editor.wordHighlightStrongBackground": "#AF95B965",
+		"editor.wordHighlightBackground": "#AF95B950",
+		"editor.wordHighlightStrongBackground": "#AF95B950",
 		"peekViewTitle.background": "#B040E9",
 		"peekViewTitleDescription.foreground": "#AF95B9",
 		"peekView.border": "#432e51",
@@ -123,7 +123,8 @@
 		"editorGutter.addedBackground": "#45c758bb",
 		"editorGutter.deletedBackground": "#18071F",
 		"extensionButton.prominentBackground": "#B040E970",
-		"extensionButton.prominentHoverBackground": "#B040E9"
+		"extensionButton.prominentHoverBackground": "#B040E9",
+		"textLink.foreground": "#B040E9"
 	},
 	"tokenColors": [
 		{
