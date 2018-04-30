@@ -1,42 +1,27 @@
 {
-	"name": "styncy",
-	"displayName": "Styncy",
-	"description": "Stylish styles styled by Goncy, with variants for Atom dark one and Monokai pro, based on Atom IDE",
-	"version": "0.0.13",
-	"publisher": "goncy",
-	"icon": "images/icon.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/goncy/styncy.git"
-	},
-	"engines": {
-		"vscode": "^1.16.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Styncy",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Styncy-color-theme.json"
-			},
-			{
-				"label": "Styncy (dark)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Styncy-color-theme-dark.json"
-			},
-			{
-				"label": "Styncy (monokai)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Styncy-color-theme-monokai.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "8e89705e-a8d3-408f-b345-af43092a547d",
-		"publisherDisplayName": "goncy",
-		"publisherId": "53f661cd-9f68-49a3-acb8-fc90b904fa12"
-	}
+    "name": "darcy",
+    "displayName": "Darcy",
+    "description": "Stylish styles styled by Goncy",
+    "version": "0.0.14",
+    "publisher": "goncy",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goncy/darcy.git"
+    },
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darcy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darcy-color-theme.json"
+            }
+        ]
+    }
 }

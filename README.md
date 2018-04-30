@@ -1,13 +1,13 @@
-# Styncy
-Stylish styles styled by Goncy, with variants for Atom dark one and Monokai pro, based on Atom IDE
+# Darcy
+Stylish styles styled by Goncy
 
-VSCode Theme based on [Atom's IDE presentation](https://ide.atom.io/) theme.
+VSCode theme based on Dan Abramov's theme
 
-![](https://raw.githubusercontent.com/goncy/styncy/master/images/preview.jpg)
+![](https://raw.githubusercontent.com/goncy/darcy/master/images/preview.jpg)
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=goncy.styncy)  
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=goncy.darcy)  
 
 ## Customization
 
