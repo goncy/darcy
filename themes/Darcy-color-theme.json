@@ -127,15 +127,15 @@
 			}
 		},
 		{
-			"name": "Function Call",
-			"scope": "variable.function.js, meta.class meta.group.braces.curly meta.function-call variable.function.js, entity.name.tag.jsx, variable.function.constructor.js",
+			"name": "Yellow",
+			"scope": "variable.function.js, meta.class meta.group.braces.curly meta.function-call variable.function.js, entity.name.tag.jsx, variable.function.constructor.js, entity.name.tag.script.html, support.type.property-name.css, entity.name.tag.style.html, tag.decorator.js",
 			"settings": {
 				"foreground": "#ffe2a9"
 			}
 		},
 		{
-			"name": "Function/Class Name",
-			"scope": "entity.name.function.js, meta.class.js entity.name.class, meta.class meta.function-call variable.function.js, source.js keyword.control.loop.js, storage.type.function.arrow.js",
+			"name": "Pink",
+			"scope": "entity.name.function.js, meta.class.js entity.name.class, meta.class meta.function-call variable.function.js, source.js keyword.control.loop.js, storage.type.function.arrow.js, entity.other.attribute-name.class.css",
 			"settings": {
 				"foreground": "#f1a5ab"
 			}
@@ -225,7 +225,7 @@
 			}
 		},
 		{
-			"name": "Props / Parameters",
+			"name": "Blue",
 			"scope": "entity.other.attribute-name.jsx, variable.parameter.function.js",
 			"settings": {
 				"foreground": "#91c5d3"
